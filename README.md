@@ -78,14 +78,40 @@ This setup allows for a flexible and organized ticketing system with clear roles
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+1.Configure Agents (Workers):
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Path: Admin Panel -> Agents -> Add New
+Jane: Assigned to SysAdmins department.
+John: Assigned to Support department.
+
+2.Configure Users (Customers):
+
+
+Path: Agent Panel -> Users -> Add New
+Karen and Ken are added as users (customers) in the system.
+
+3.Configure SLA (Service Level Agreements):
+
+
+Path: Admin Panel -> Manage -> SLA
+Sev-A: Grace Period: 1 hour, Schedule: 24/7
+Sev-B: Grace Period: 4 hours, Schedule: 24/7
+Sev-C: Grace Period: 8 hours, Schedule: Business Hours
+
+4.Configure Help Topics (For when Users Create a Ticket):
+
+
+Path: Admin Panel -> Manage -> Help Topics
+Available help topics for users when submitting a ticket:
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+Other
+
+This setup helps define your team structure, user roles, SLA response times, and the categories available for users when submitting support tickets.
+
+
 </p>
 <br />
