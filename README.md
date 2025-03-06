@@ -15,6 +15,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket System
 
 <h2>Operating Systems Used </h2>
 
@@ -22,11 +23,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- osTicketing system Configurations:
+  
+-Ticket properties
+
+-SLA
+
+-Departments
+
+-Permissions
+
+-Users
 
 <h2>Configuration Steps</h2>
 
