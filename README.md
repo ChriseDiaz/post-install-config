@@ -27,13 +27,17 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 -Ticket properties
 
+-Agents
+
+-Help Topics
+
 -SLA
 
 -Departments
 
--Permissions
+-Roles/Permissions
 
--Users
+-Users/Teams
 
 <h2>Configuration Steps</h2>
 
