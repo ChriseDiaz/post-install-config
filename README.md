@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [Clipchamp: How To Configure osTicket, post-installation](https://1drv.ms/v/c/5dac4edc6b620d54/Ed3lenkHFepHmWgKEXFMaL0Bz0z8JcMRWHWfwW97keGueg)
 
 <h2>Environments and Technologies Used</h2>
 
