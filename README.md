@@ -88,7 +88,9 @@ This setup allows for a flexible and organized ticketing system with clear roles
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Image](https://github.com/user-attachments/assets/873f465c-c968-49c4-8f9c-3f3435bc9c26)
+
 </p>
 <p>
 1.Configure Agents (Workers):
